@@ -6,8 +6,7 @@
 trigger:
 - master
 
-pool:
-  vmImage: ubuntu-latest
+pool: Cloudlab34
 
 steps:
 - task: Maven@3
